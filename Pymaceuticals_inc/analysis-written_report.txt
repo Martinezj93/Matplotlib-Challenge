@@ -1,0 +1,12 @@
+# Pymaceuticals Inc.
+---
+
+## Analysis
+
+- Based on the results from the box plots, it is evident that the effectiveness of Capomulin and Ramicane is significantly higher compared to the Infubinol and Ceftamin. However, it is important to consider that Capomulin and Ramicane drug regimens have been tested in a greater number of mice, as displayed in bar charts. 
+
+- The effectiveness of the Capomulin is also demonstrated by the Line graph, where the tumour size of the mouse “L509” drastically reduced from the 20 timepoint (days) onwards.
+
+- The results from the scatter plot demonstrates a cluster/tendency that the heavier the mouse, the greater the tumour volume is. Hence, the regression model is very reliable according to the Pearson’s Correlation. R-value result of 0.84, represents a strong positive correlation. 
+
+- Recommendation: Studies and tests of the Capomulin and Ramicane drug regimens should continue, and probably more investment should be put on these two. However, important attention is required on Infubinol drug regimen due to an outlier showed in the box plot. It is suggested to understand and review in what conditions this outlier data was collected to draw a conclusion on this point. 
